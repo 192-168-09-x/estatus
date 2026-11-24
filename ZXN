@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "latest_version": "1.1.0",
+  "latest_version": "1.2.0",
   "min_supported_version": "1.0.0",
-  "download_url": "https://github.com/.../releases/tag/v1.1.0",
+  "download_url": "https://firstrandgroup-my.sharepoint.com/:u:/r/personal/r8890715_rmb_co_za/Documents/RMB%20Testing%20May%202026/Automation/PACSMAN.zip?d=w3dfc66e7d9cd42bc858da388d808afa0&csf=1&web=1&e=jNbMBu",
   "release_notes": ["CAMT.056 now follows the verified template"],
   "notices": [
     {
       "id": "2026-11-25-uat-down",
-      "level": "info | warning | critical",
+      "level": "critical",
       "title": "UAT Hub down for maintenance",
       "message": "Back on 26 Nov 08:00",
       "link": "https://...",
