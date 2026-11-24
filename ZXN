@@ -1,1 +1,20 @@
-1
+{
+  "schema": 1,
+  "latest_version": "1.1.0",
+  "min_supported_version": "1.0.0",
+  "download_url": "https://github.com/.../releases/tag/v1.1.0",
+  "release_notes": ["CAMT.056 now follows the verified template"],
+  "notices": [
+    {
+      "id": "2026-11-25-uat-down",
+      "level": "info | warning | critical",
+      "title": "UAT Hub down for maintenance",
+      "message": "Back on 26 Nov 08:00",
+      "link": "https://...",
+      "starts": "2026-11-25",
+      "expires": "2026-11-26",
+      "applies_to": ">=1.0.0 <1.1.0",
+      "dismissible": true
+    }
+  ]
+}
