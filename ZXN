@@ -11,7 +11,7 @@
       "title": "UAT Hub down for maintenance",
       "message": "Back on 26 Nov 08:00",
       "link": "https://...",
-      "starts": "2026-11-25",
+      "starts": "2026-11-24",
       "expires": "2026-11-26",
       "applies_to": ">=1.0.0 <1.1.0",
       "dismissible": true
