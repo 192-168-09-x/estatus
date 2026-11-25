@@ -8,10 +8,13 @@
     {
       "id": "2026-11-25-uat-down",
       "level": "info",
-      "title": "SADC Region flow is not added",
-      "message": "Will be added by 24 Nov 07:00 PM IST ",
+      "title": "ADDING SADC REGION FLOWS IS IN PROGRESS.",
+      "message": "Will be added by 25 Nov EOD ",
+      "level": "info",
+      "title": "PACS.004 GENERATION IS IN DEVELOPMENT",
+      "message": "Will be added by 25 Nov EOD ",
       "link": "https://...",
-      "starts": "2026-11-24",
+      "starts": "2026-11-25",
       "expires": "2026-11-26",
       "applies_to": ">=1.0.0 <1.1.0",
       "dismissible": true
