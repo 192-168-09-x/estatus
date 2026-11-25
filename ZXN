@@ -8,11 +8,11 @@
     {
       "id": "2026-11-25-uat-down",
       "level": "info",
-      "title": "ADDING SADC REGION FLOWS IS IN PROGRESS.",
+      "title": "1. ADDING SADC REGION FLOWS IS IN PROGRESS.
+                2. PACS.004 GENERATION IS IN DEVELOPMENT."
+                3. CAMT56 GENEARTION IS IN DEVELOPEMT.",
       "message": "Will be added by 25 Nov EOD ",
-      "level": "info",
-      "title": "PACS.004 GENERATION IS IN DEVELOPMENT",
-      "message": "Will be added by 25 Nov EOD ",
+
       "link": "https://...",
       "starts": "2026-11-25",
       "expires": "2026-11-26",
